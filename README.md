@@ -1,6 +1,6 @@
 # Revolt Voice Chatbot (Gemini Live API)
 
-A real-time voice chatbot built using Node.js and Gemini 2.5 Flash API.
+A real-time voice chatbot built using Node.js and gemini-2.5-flash-preview-native-audio-dialog API.
 
 ## Features
 - Natural voice conversations
@@ -11,7 +11,7 @@ A real-time voice chatbot built using Node.js and Gemini 2.5 Flash API.
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/revolt-voice-chat.git
+git clone https://github.com/vishal145o/revolt-voice-chat.git
 cd revolt-voice-chat/backend
 npm install
 cp .env.example .env  # add your API key and model
